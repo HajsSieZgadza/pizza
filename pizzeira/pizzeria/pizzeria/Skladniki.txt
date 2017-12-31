@@ -1,0 +1,4 @@
+Kogut 2.22
+baranina 3.33
+totoro 3.67
+whisky 50.56
